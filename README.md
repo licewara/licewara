@@ -3,7 +3,7 @@
 
 🧠 System Development Student at PUC-GO <br/>
 🎨 Background in Graphic Design and Data Science <br/>
-🌐 I create web-designs so I can keep learning front-end development <br/>
+🌐 I create web-designs so I can keep learning front and back-end development <br/>
 🤖 I am focusing more on HTML5, CSS and JavaScript. <br/>
 ☕ Building a virtual cafe to practice programming and show my personal style <br/>
 
