@@ -20,4 +20,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=licewara&icon=0&color=10)](https://visitcount.itsvg.in)
 
+## 🎯 Atividade Recente
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=licewara&theme=merko&area=true&hide_border=true&custom_title=Meu%20Progresso%20Diário&radius=8)](https://github.com/licewara)
+
+<details>
+  <summary>📌 <b>O que essa seção mostra?</b></summary>
+  
+  - ✨ **Commits** 
+  - 🎉 **Pull Requests** 
+  - 🐛 **Issues resolvidas**
+  - 📚 **Repositórios criados/atualizados**
+  - 🕒 **Frequência de atividade**
+</details>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
