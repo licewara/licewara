@@ -1,0 +1,22 @@
+name: Update Activity Graph
+on:
+  schedule:
+    - cron: '0 12 * * *' 
+  workflow_dispatch:
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 
+      - name: Update README
+        run: |
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=licewara&theme=merko&cache_seconds=$(date +%s)" > /dev/null
+      - name: Commit changes
+        run: |
+          git config --global user.name "licewara"
+          git config --global user.email "alicewolffernandes@gmail.com"
+          git add README.md
+          git commit -m "📈 Atualização automática do gráfico" || echo "Sem mudanças para commit"
+          git push
