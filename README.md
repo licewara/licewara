@@ -1,11 +1,11 @@
 # 💫 About Me:
-## Hi! Welcome to my profile 🌤
+## Hi! Welcome to my profile ☕🌸  
 
-🧠 System Development Student at PUC-GO <br/>
-🎨 Background in Graphic Design and Data Science <br/>
-🌐 I create web-designs so I can keep learning front and back-end development <br/>
-🤖 I am focusing more on HTML5, CSS and JavaScript. <br/>
-☕ Building a virtual cafe to practice programming and show my personal style <br/>
+🧠 System Development student at PUC-GO  
+💻 Transitioning from front-end to back-end with a strong focus on Java  
+📊 Background in Graphic Design and Data Science  
+🔧 Passionate about building efficient APIs and clean server-side logic  
+🚀 Currently thinking about next project! <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-wolf-fernandes-95473a20b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabriel.wolf@live.com) 
