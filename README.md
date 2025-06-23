@@ -5,7 +5,7 @@
 💻 Transitioning from front-end to back-end with a strong focus on Java  
 📊 Background in Graphic Design and Data Science  
 🔧 Passionate about building efficient APIs and clean server-side logic  
-🚀 Currently thinking about next project! <br/>
+🚀 Open to work! Currently looking for an internship or junior position in Software Development. <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicewolf-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alicewolffernandes@gmail.com) 
